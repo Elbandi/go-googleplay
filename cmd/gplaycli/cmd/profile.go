@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/jarijaas/go-gplayapi/pkg/config"
-	"github.com/jarijaas/go-gplayapi/pkg/device"
+	"github.com/Elbandi/go-googleplay/pkg/config"
+	"github.com/Elbandi/go-googleplay/pkg/device"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"path"

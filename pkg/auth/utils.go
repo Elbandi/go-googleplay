@@ -13,7 +13,7 @@ import (
 	xtls "github.com/Jarijaas/go-tls-exposed/tls"
 	"github.com/chromedp/cdproto/network"
 	"github.com/chromedp/chromedp"
-	"github.com/jarijaas/go-gplayapi/pkg/device"
+	"github.com/Elbandi/go-googleplay/pkg/device"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"math/big"

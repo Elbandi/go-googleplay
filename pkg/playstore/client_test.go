@@ -1,7 +1,7 @@
 package playstore
 
 import (
-	"github.com/jarijaas/go-gplayapi/pkg/auth"
+	"github.com/Elbandi/go-googleplay/pkg/auth"
 	"os"
 	"testing"
 )
