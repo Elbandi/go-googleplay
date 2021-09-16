@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jarijaas/go-gplayapi/cmd/gplaycli/cmd"
+	"github.com/Elbandi/go-googleplay/cmd/gplaycli/cmd"
 	log "github.com/sirupsen/logrus"
 )
 

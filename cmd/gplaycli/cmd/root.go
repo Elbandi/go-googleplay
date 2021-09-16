@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/jarijaas/go-gplayapi/pkg/auth"
-	"github.com/jarijaas/go-gplayapi/pkg/playstore"
+	"github.com/Elbandi/go-googleplay/pkg/auth"
+	"github.com/Elbandi/go-googleplay/pkg/playstore"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"golang.org/x/crypto/ssh/terminal"

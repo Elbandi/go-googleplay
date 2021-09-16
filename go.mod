@@ -1,4 +1,4 @@
-module github.com/jarijaas/go-gplayapi
+module github.com/Elbandi/go-googleplay
 
 go 1.15
 

@@ -47,8 +47,8 @@ To download a file to disk:
 package main
 
 import (
-	"github.com/jarijaas/go-gplayapi/pkg/auth"
-	"github.com/jarijaas/go-gplayapi/pkg/playstore"
+	"github.com/Elbandi/go-googleplay/pkg/auth"
+	"github.com/Elbandi/go-googleplay/pkg/playstore"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"os"
